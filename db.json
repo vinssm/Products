@@ -2,27 +2,27 @@
   "info": [
     {
       "id": 1,
-      "company": "Apple",
-      "price" : 75000,
-      "Model" : "iphone-x"
+      "company": "Nike",
+      "price" : 1000,
+      "Model" : "JDI"
     },
     {
       "id": 2,
-      "company": "Samsung",
-      "price" : 65000,
-      "Model" : "S-9"
+      "company": "Rebock",
+      "price" : 900,
+      "Model" : "Recks"
     },
     {
       "id": 3,
-      "company": "one+",
-      "price" : 35000,
-      "Model" : "one+7"
+      "company": "Addidas",
+      "price" : 800,
+      "Model" : "Addis"
     },
     {
       "id": 4,
-      "company": "vivo",
-      "price" : 25000,
-      "Model" : "vivo-v15"
+      "company": "Snikers",
+      "price" : 700,
+      "Model" : "Sniks"
     }
   ]
 }
