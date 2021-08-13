@@ -1,0 +1,28 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "company": "Apple",
+      "price" : 75000,
+      "Model" : "iphone-x"
+    },
+    {
+      "id": 2,
+      "company": "Samsung",
+      "price" : 65000,
+      "Model" : "S-9"
+    },
+    {
+      "id": 3,
+      "company": "one+",
+      "price" : 35000,
+      "Model" : "one+7"
+    },
+    {
+      "id": 4,
+      "company": "vivo",
+      "price" : 25000,
+      "Model" : "vivo-v15"
+    }
+  ]
+}
